@@ -6,8 +6,8 @@
 The _**Biofeedback and Neurofeedback Community Nijmegen (BNCNijmegen)**_ is an initiative to bring together Bio- and Neurofeedback researchers across the Radboud campus by providing a platform for knowledge exchange and collaboration, aimed at making Nijmegen a central hub of expertise in Bio- and Neurofeedback research in the Netherlands.
 
 # Activities
-* Discussion forum (GitHub)
-* Kowledge base (GitHub)
+* [Discussion forum](https://github.com/bncnijmegen/.github/discussions) (GitHub)
+* [Kowledge base](https://github.com/bncnijmegen/.github/wiki) (GitHub)
 * Real-time collaboration (Matrix)
   
 # Contributing
