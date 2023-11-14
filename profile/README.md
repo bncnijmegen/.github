@@ -8,7 +8,7 @@ The _**Biofeedback and Neurofeedback Community Nijmegen (BNCNijmegen)**_ is an i
 # Activities
 * [Discussion forum](https://github.com/bncnijmegen/.github/discussions) (GitHub)
 * [Kowledge base](https://github.com/bncnijmegen/.github/wiki) (GitHub)
-* Real-time collaboration (Matrix)
+* [Real-time chat/collaboration](https://matrix.to/#/#bncnijmegen:matrix.org) (Matrix)
   
 # Contributing
 To join the community, please contact Florian Krause (florian.krause@donders.ru.nl)
